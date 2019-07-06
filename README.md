@@ -5,6 +5,9 @@ A fun friend finder app. Answer questions in a survey to find your drinking budd
 
 
 ## Instruction
+Run Npm Install on your terminal
+
+Run Node Server.js
 
 Start the survey by pressing the button on the home page.
 
