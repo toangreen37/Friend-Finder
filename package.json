@@ -20,7 +20,10 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
+    "gh": "^1.17.5",
+    "gh-pages": "^2.0.1",
     "mysql": "^2.11.1",
+    "pages": "0.0.16",
     "path": "^0.12.7"
   },
   "engines": {
